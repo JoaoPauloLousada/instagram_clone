@@ -1,6 +1,6 @@
 # instagram_clone
 
-Application done using Angular 5 implementing a simple clone of instagram.
+Application done using Angular 5 and firebase back end integration implementing a simple clone of instagram.
 
 Aplicação com Angular 5 que implementa um simples clone do instagram.
 
